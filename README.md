@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Hits](https://hits.sh/github.com/JengHC.svg)](https://hits.sh/github.com/JengHC/)
 <!--
 **JengHC/JengHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
