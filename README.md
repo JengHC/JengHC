@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.sh/github.com/JengHC.svg)](https://hits.sh/github.com/JengHC/)
+[![Hits](https://hits.sh/github.com/JengHC.svg?view=today-total&color=00a2ff&labelColor=000000)](https://hits.sh/github.com/JengHC/)
 <!--
 **JengHC/JengHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
