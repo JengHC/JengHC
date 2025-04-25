@@ -1,4 +1,4 @@
-```markdown
+
 ### Hi there 👋
 [![Hits](https://hits.sh/github.com/JengHC.svg?view=today-total&color=00a2ff&labelColor=000000)](https://hits.sh/github.com/JengHC/)
 # 이름 / Name
@@ -13,4 +13,4 @@
 - C++
 ## 📫 연락처
 - 이메일: lover123e@gmail.com
-```
+
