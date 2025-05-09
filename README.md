@@ -2,7 +2,7 @@
 ### Hi there 👋
 [![Hits](https://hits.sh/github.com/JengHC.svg?view=today-total&color=00a2ff&labelColor=000000)](https://hits.sh/github.com/JengHC/)
 # 정희철 | Heecheol Jeong
-👋 안녕하세요! Unity로 게임을 만드는 데에 열정을 가진 개발자입니다.
+👋 안녕하세요! Unity로 게임 / 클라이언트를 만드는 데에 열정을 가진 개발자입니다.
 # 💻 기술 스택
 - 언어: C#
 - 게임엔진: Unity3D
