@@ -15,7 +15,7 @@
 - [Let's go!! 지하철로 떠나는 부울경 수학여행](https://github.com/JengHC/Zepeto-World-Busan-Ulsan-Kimhae-) - Unity, Maya, Zepeto를 활용해 인터랙티브 월드를 제작했습니다.
 - [Temusan AimLab](https://github.com/JengHC/Temusan-AimLab) - AimLab 스타일의 게임 일부 기능(점수, 시간, 정확도, 랭킹 시스템)을 구현했습니다.
 - [The Fool](https://github.com/JengHC/TheFool/tree/JengHC-patch-1) - 두 종류의 몬스터와 보스가 등장하는 핵 앤 슬래시 스타일 액션 미니게임을 개발했습니다.
-- [LINK](링크)- 멀티플레이 사이버 유격 미니게임을 제작했습니다.
+- [LINK](https://github.com/JengHC/LINK)- 멀티플레이 사이버 유격 미니게임을 제작했습니다.
 ## 🌱 현재 학습 중
 - C++
 ## 📫 연락처
